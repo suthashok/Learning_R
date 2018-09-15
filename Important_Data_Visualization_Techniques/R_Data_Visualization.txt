@@ -46,3 +46,4 @@ if we want to color the datapoint based on a third clumn:
 
 plot(pollution$latitude,ppm,col=pollution$region)
 
+SOURCE: SWIRL COURSE

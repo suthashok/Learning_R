@@ -29,3 +29,4 @@ dev.cur() to see what integer your plotting window is assigned.
 You can also copy a plot from one device to another. This can save you some time but beware! Copying a plot is not an exact operation, so the result may not be identical to the original. R provides some functions to help you do this. The function dev.copy copies a plot from one
 device to another, and dev.copy2pdf specifically copies a plot to a PDF file.
 
+SOURCE: SWIRL COURSE
